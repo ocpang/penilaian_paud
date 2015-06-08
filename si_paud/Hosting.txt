@@ -1,0 +1,9 @@
+nilaipaudflamboyan.ocpang.5gbfree.com
+
+CPanel
+Username: ocpang
+Password: tbwTD7vd
+
+db : ocpang_paud
+username : ocpang_root
+password : tbwTD7vd
